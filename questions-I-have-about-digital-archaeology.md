@@ -1,3 +1,2 @@
-# questions-I-have-about-digital-archaeology
+# Journal
 
-Is Digital Archeology easy to do when you're not digitally conersant? 
